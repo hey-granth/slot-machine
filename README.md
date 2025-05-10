@@ -19,15 +19,7 @@ This application simulates a slot machine where users can:
 - Win calculation based on matched symbols
 - Balance tracking
 ---
-## Symbol Values
 
-| Symbol | Value Multiplier |
-|--------|------------------|
-| A      | 5x               |
-| B      | 4x               |
-| C      | 3x               |
-| D      | 2x               |
----
 ## Getting Started
 
 ### Prerequisites
